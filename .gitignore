@@ -1,0 +1,15 @@
+# Temporary OS X files
+.DS_Store
+
+# User settings
+xcuserdata/
+
+# Xcode stuff
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
+DerivedData/
+AppExDemo.xcodeproj/xcshareddata/
